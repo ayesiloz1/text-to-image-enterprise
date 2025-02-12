@@ -1,0 +1,28 @@
+name: text_to_image_enterprise
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch
+  - torchvision
+  - pytorch::torchaudio
+  - pytorch::cpuonly
+  - sqlite
+  - postgresql
+  - pip:
+      - diffusers
+      - transformers
+      - accelerate
+      - flask
+      - fastapi
+      - uvicorn
+      - pillow
+      - pyyaml
+      - opencv-python
+      - real-esrgan
+      - celery
+      - redis
+      - psycopg2-binary
+      - pytest

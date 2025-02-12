@@ -1,0 +1,17 @@
+diffusers
+transformers
+accelerate
+flask
+fastapi
+uvicorn
+pillow
+pyyaml
+torch
+torchvision
+torchaudio
+opencv-python
+celery
+redis
+psycopg2-binary
+pytest
+

@@ -1,0 +1,8 @@
+# Configuration file for text-to-image model
+model_name: "stabilityai/stable-diffusion-2-1"
+output_dir: "outputs"
+image_size: 768
+num_inference_steps: 80
+guidance_scale: 7.5
+upscale: true  # Enable Real-ESRGAN upscaling
+database_url: "sqlite:///database.sqlite"
