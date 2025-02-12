@@ -94,7 +94,7 @@ kubectl apply -f k8s-deployment.yaml
 | **Prompt** | **Generated Image** |
 |------------|---------------------|
 | *"A futuristic cyberpunk city"* | ![Cyberpunk City](outputs/cyberpunk.png) |
-| *"A breathtaking aerial view of Paris at sunset, ultra-HD photography"* | ![Paris Sunset](outputs/paris.png) |
+| *"A breathtaking aerial view of NYC at sunset, ultra-HD photography"* | ![NYC Sunset](outputs/city_upscaled.png) |
 
 > 📌 **Note:** Replace the image paths with actual generated images.
 
