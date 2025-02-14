@@ -111,7 +111,3 @@ kubectl apply -f k8s-deployment.yaml
 ## **📜 License**
 This project is **open-source** under the **MIT License**.
 
----
-👨‍💻 **Developed by:** _Your Name / Team Name_  
-📧 **Contact:** _your.email@example.com_  
-🌍 **Website:** _[YourProjectWebsite.com](https://yourwebsite.com)_  
